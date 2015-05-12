@@ -182,8 +182,11 @@ And, more importantly,
 * Allows reproducibility, leads to increased dissemination and greater social impact
 * It is the right thing to do
 
-This presentation, hosted on Github: http://mrn.bz/whynotpowerpoint
-Repository for this presentation: http://mrn.bz/whynotpowerpoint-repo
+This presentation, hosted on Github: 
+http://mrn.bz/whynotpowerpoint
+
+Repository for this presentation: 
+http://mrn.bz/whynotpowerpoint-repo
 
 # Thanks!
 

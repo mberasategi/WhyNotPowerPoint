@@ -31,7 +31,7 @@ I want a workflow that will cover the following:
 
 ---------
 
-![Screenshot from Mendeley](pics/mendeley-screenshot.png)
+![Screenshot from Mendeley](pics/mendeley-screenshot.PNG)
 
 ----------
 
@@ -68,7 +68,7 @@ one tool to work on the two of them separately
 
 --------
 
-![Plain text writing](pics/sublime-screenshot.PNG)
+![Plain text writing](pics/sublime-screenshot.png)
 
 --------
 
@@ -105,7 +105,7 @@ One source-file to produce-them-all (outputs):
 
 ---------
 
-![LaTex source screenshot](pics/latex-screenshot.png)
+![LaTex source screenshot](pics/latex-screenshot.PNG)
 
 ---------
 

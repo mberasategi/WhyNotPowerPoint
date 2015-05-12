@@ -27,15 +27,15 @@ I want a workflow that will cover the following:
 
 ## Tool of choice
 
-![[Mendeley](https://www.mendeley.com)](pics/mendeley.jpg)
+![[Mendeley](https://www.mendeley.com)](img/mendeley.jpg)
 
 ---------
 
-![Screenshot from Mendeley](pics/mendeley-screenshot.PNG)
+![Screenshot from Mendeley](img/mendeley-screenshot.png)
 
 ----------
 
-![Highlighting PDF files, exporting to plain text with [Sumnotes](https://www.sumnotes.net/)](pics/highlights-sumnotes.png)
+![Highlighting PDF files, exporting to plain text with [Sumnotes](https://www.sumnotes.net/)](img/highlights-sumnotes.png)
 
 # 2. Writing
 
@@ -58,7 +58,7 @@ I want a workflow that will cover the following:
 
 ## Tool of choice
 
-![[Pandoc](http://pandoc.org/)](pics/pandoc.png) 
+![[Pandoc](http://pandoc.org/)](img/pandoc.png) 
 
 --------
 
@@ -68,7 +68,7 @@ one tool to work on the two of them separately
 
 --------
 
-![Plain text writing](pics/sublime-screenshot.png)
+![Plain text writing](img/sublime-screenshot.png)
 
 --------
 
@@ -96,7 +96,7 @@ pandoc -s --bibliography=library.bib
 
 One source-file to produce-them-all (outputs):
 
-![PDF through LaTeX _vs._ Word](pics/pandoc-outputs.png)
+![PDF through LaTeX _vs._ Word](img/pandoc-outputs.png)
 
 ## Main advantage
 
@@ -105,13 +105,13 @@ One source-file to produce-them-all (outputs):
 
 ---------
 
-![LaTex source screenshot](pics/latex-screenshot.PNG)
+![LaTex source screenshot](img/latex-screenshot.png)
 
 ---------
 
 Markdown syntax is simple and easy to remember
 
-![Sample of Markdown syntax](pics/markdown-example.png)
+![Sample of Markdown syntax](img/markdown-example.png)
 
 ---------
 
@@ -160,7 +160,7 @@ And, more importantly,
 
 ----
 
-![[Sublime Text](http://www.sublimetext.com/): pleasant to write in, efficient to revise and build](pics/st2.png)
+![[Sublime Text](http://www.sublimetext.com/): pleasant to write in, efficient to revise and build](img/st2.png)
 
 # 4. Backup and version control
 
@@ -172,7 +172,7 @@ And, more importantly,
 
 ## Tool of choice
 
-![[Github](https://github.com/)](pics/github.png)
+![[Github](https://github.com/)](img/github.png)
 
 ## Bonus:
 
@@ -181,6 +181,9 @@ And, more importantly,
 * Data and research process can be available for everyone (or at least for some)
 * Allows reproducibility, leads to increased dissemination and greater social impact
 * It is the right thing to do
+
+This presentation, hosted on Github: http://mrn.bz/whynotpowerpoint
+Repository for this presentation: http://mrn.bz/whynotpowerpoint-repo
 
 # Thanks!
 
